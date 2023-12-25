@@ -1,5 +1,6 @@
-# DevKitty 
-We make cat-themed hardware, and develop free educational content for hackers & makers.
+# DevKitty
+<img src="/DevKitty-Social-Banner-1920x540.png"/>
+**We make cat-themed hardware, and develop free educational content for hackers & makers!**
 
 ## Products
 - 🐱 [DevKitty](https://shop.devkitty.io)* - The Cat-Shaped Console for Hackers & Makers!
